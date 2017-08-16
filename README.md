@@ -1,1 +1,2 @@
-# love
+# Ultra
+Amazon JP Template
